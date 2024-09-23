@@ -2,7 +2,7 @@
 
 - Group Number: Group 1
 - Student 1: Md Keiuom Miah (12280508)
-- Student 2: Wenzheng Li (12255229)
+- Student 2: Rifat Ahmed Fahim (12255229)
 - Campus: Melbourne
 - Tutor: Mr Sunil Seneviratne
 
