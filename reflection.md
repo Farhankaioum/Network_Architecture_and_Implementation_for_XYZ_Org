@@ -17,10 +17,10 @@ This section reflects on the success and challenges in the project and with team
 | Part             | Principal            |
 |------------------|----------------------|
 | Cloud            | Keiuom          |
-| Security         |  Wenzheng Li              |
-| Reflection       | Wenzheng Li               |
-| Plan             | Wenzheng Li          |
-| Presentation    | Keiuom, Wenzheng Li   |
+| Security         |  Rifat              |
+| Reflection       | Rifat               |
+| Plan             | Rifat          |
+| Presentation    | Keiuom, Rifat   |
 | Video Editing    | Wenzheng Li          |
 
 
