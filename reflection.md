@@ -8,8 +8,8 @@ This section reflects on the success and challenges in the project and with team
 | Part                    | Principal      |
 |-------------------------|----------------|
 | Network Design Diagrams | Wenzheng Li    |
-| Justifications          | Shoeb          |
-| WiFi Design             | Shoeb          |
+| Justifications          | Keiuom          |
+| WiFi Design             | Keiuom          |
 | Address Allocations     | Wenzheng Li    |
 | Recommended Hardware    | Shoeb          |
 
