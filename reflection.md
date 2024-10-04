@@ -21,7 +21,7 @@ This section reflects on the success and challenges in the project and with team
 | Reflection       | Rifat               |
 | Plan             | Rifat          |
 | Presentation    | Keiuom, Rifat   |
-| Video Editing    | Wenzheng Li          |
+| Video Editing    | Rifat          |
 
 
 ## Positives and Negatives of Group Work
