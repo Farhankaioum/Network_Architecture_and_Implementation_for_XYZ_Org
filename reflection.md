@@ -16,11 +16,11 @@ This section reflects on the success and challenges in the project and with team
 **For the project final.**
 | Part             | Principal            |
 |------------------|----------------------|
-| Cloud            | Shoeb          |
+| Cloud            | Keiuom          |
 | Security         |  Wenzheng Li              |
 | Reflection       | Wenzheng Li               |
 | Plan             | Wenzheng Li          |
-| Presentation    | Shoeb, Wenzheng Li   |
+| Presentation    | Keiuom, Wenzheng Li   |
 | Video Editing    | Wenzheng Li          |
 
 
