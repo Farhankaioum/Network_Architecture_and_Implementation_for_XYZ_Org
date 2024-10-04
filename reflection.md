@@ -7,10 +7,10 @@ This section reflects on the success and challenges in the project and with team
 **For the project draft.**
 | Part                    | Principal      |
 |-------------------------|----------------|
-| Network Design Diagrams | Wenzheng Li    |
+| Network Design Diagrams | Rifat    |
 | Justifications          | Keiuom          |
 | WiFi Design             | Keiuom          |
-| Address Allocations     | Wenzheng Li    |
+| Address Allocations     | Rifat    |
 | Recommended Hardware    | Shoeb          |
 
 **For the project final.**
