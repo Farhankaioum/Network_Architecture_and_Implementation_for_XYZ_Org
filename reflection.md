@@ -11,7 +11,7 @@ This section reflects on the success and challenges in the project and with team
 | Justifications          | Keiuom          |
 | WiFi Design             | Keiuom          |
 | Address Allocations     | Rifat    |
-| Recommended Hardware    | Shoeb          |
+| Recommended Hardware    | Keiuom          |
 
 **For the project final.**
 | Part             | Principal            |
