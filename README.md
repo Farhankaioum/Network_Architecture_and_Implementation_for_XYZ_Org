@@ -3,7 +3,7 @@
 - Group Number: Mel Rifat Keiuom
 - Student 1: Md Keiuom Miah (12280508)
 - Student 2: Rifat Ahmed Fahim (12255229)
-- Campus: Melbourne
+- Campus: Melbourne CBD
 - Tutor: Mr Sunil Seneviratne
 
 ## Project Report
