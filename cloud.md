@@ -16,6 +16,7 @@ So lets Start With **Google Cloud**:
 **Google Cloud Web Server**:
 
 In the Instances selection we selected only one because we need only 1 web server.The operating system we slected was linux type:
+
 ![c1](./images/c1.png)
 In the Machine Type we selected 4 VCPUS and 15 gibs of ram because we felt that it will be sufficient.
 ![c1](./images/c2.png)
@@ -39,6 +40,7 @@ Lets move onto **Amazon Web Services**:
 **Amazon Cloud Standard Storage(EC2):**
 So we chose local zone as Chicago because australia is very expensive regarding the service:
 Below is both prices;
+
 ![c1](./images/d1.png)
 ![c1](./images/X1.png)
 Hence We opted to go with Chicago.
