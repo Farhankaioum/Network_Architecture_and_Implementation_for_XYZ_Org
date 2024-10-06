@@ -18,21 +18,32 @@ So lets Start With **Google Cloud**:
 In the Instances selection we selected only one because we need only 1 web server.The operating system we slected was linux type:
 
 ![c1](./images/c1.png)
+
 In the Machine Type we selected 4 VCPUS and 15 gibs of ram because we felt that it will be sufficient.
+
 ![c1](./images/c2.png)
+
 Also we chose SSD persistant disk because we felt that it will give better performance
+
 ![c1](./images/c3.png)
+
 The region we chose was Melbourne Southeast-2
+
 ![c1](./images/c4.png)
 
 **Google Cloud Standard Storage**:
 
 The storage class was standard HDD storage and the region we chose is Melbourne:
+
 ![c1](./images/c5.png)
+
 The source and destination region was oceania:
+
 ![c1](./images/c6.png)
 Below is the final pricing estimate/Quotation from Google Cloud:
+
 The region we chose was Melbourne Southeast-2
+
 ![c1](./images/screenshot(398).png)
 
 Lets move onto **Amazon Web Services**:
@@ -46,10 +57,14 @@ Below is both prices;
 Hence We opted to go with Chicago.
 
 Okay so in instance we selected 1 instance and constant usage because we will need to use it concurrently:
+
 ![c1](./images/c4.png)
 We selected the t3.xlarge regarding the CPU we chose 16 gb (couldnt find 15 gb similar to google cloud) and 4VCPUS (akin to gcloud):
+
 ![c1](./images/d3.png)
+
 Also for storage we used the EBS 3000 GB storage:
+
 ![c1](./images/d0.png)
 
 **Amazon Web Server (LightSail):**
