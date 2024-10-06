@@ -40,6 +40,7 @@ The storage class was standard HDD storage and the region we chose is Melbourne:
 The source and destination region was oceania:
 
 ![c1](./images/c6.png)
+
 Below is the final pricing estimate/Quotation from Google Cloud:
 
 The region we chose was Melbourne Southeast-2
@@ -59,6 +60,7 @@ Hence We opted to go with Chicago.
 Okay so in instance we selected 1 instance and constant usage because we will need to use it concurrently:
 
 ![c1](./images/c4.png)
+
 We selected the t3.xlarge regarding the CPU we chose 16 gb (couldnt find 15 gb similar to google cloud) and 4VCPUS (akin to gcloud):
 
 ![c1](./images/d3.png)
@@ -70,18 +72,24 @@ Also for storage we used the EBS 3000 GB storage:
 **Amazon Web Server (LightSail):**
 
 We selected only lightsail virtual server:
+
 ![c1](./images/d4.png)
+
 We selected linux as operating system:
+
 ![c1](./images/d5.png)
 ![c1](./images/d6.png)
 
 Below is the final pricing estimate/quotation from amazon web services:
+
 ![c1](./images/d7.png)
 
 Below is a PRICING COMPARISON Table that I have created:
+
 ![c1](./images/comtab.png)
 
 Below is a feature Comparison Table as well:
+
 ![c1](./images/feacom.png)
 
 **Below are the Price Estimate Files for both AWS and Google Cloud:**
@@ -96,6 +104,7 @@ Below is a feature Comparison Table as well:
 **Annual Cost for Google Cloud Services is: $5233.21 AUD****
 
 Below are the current conversion rates for the prices according to current rate:
+
 ![rate1](./images/rate1.png)
 ![rate2](./images/rate2.png)
 
