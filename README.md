@@ -13,4 +13,4 @@
 - [Cloud Services](./cloud.md)
 - [Security](./security.md)
 - [Project Reflections](./reflection.md)
-- [Project Presentaition](./plan.md).
+- [Project Presentaition](./plan.md)
