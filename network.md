@@ -5,8 +5,11 @@ This section gives the detailed network design.
 
 ## Network Design Diagrams and Justifications    
 **Network Design Diagrams**
-![project-network-design.png](./images/network_design.png)    
-The following is the drawio of diagram.       
+
+![project-network-design.png](./images/network_design.png)  
+
+The following is the drawio of diagram.  
+
 [project-network-design](images/network_design.drawio)    
 
 
