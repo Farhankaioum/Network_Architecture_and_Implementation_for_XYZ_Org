@@ -144,6 +144,7 @@ The cost of this router will be : $ 1500
 
 
 **Switches**:
+
 The minimum specifications we need for the switches are:
 Specifications:
 Ports: 24 or 48 Ethernet ports
