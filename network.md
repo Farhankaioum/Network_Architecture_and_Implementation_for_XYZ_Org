@@ -201,6 +201,7 @@ This setup will cost us $8000 along with the installations including all 6 camer
 
 
 **Firewall**:
+
 The specifications we require for the firewall is:
 Specifications:
 Throughput: Sufficient for expected network traffic
@@ -212,6 +213,7 @@ This will cost us $5000 for the firewall.
 
 
 **Systems**:
+
 These systems will be required for efficient managing and processing of the orders. For this not a mid range budget system is enough. The recommended PC is Dell OptiPlex 9020 mini.
 (image here)
 The cost will be approximately 500 dollars for the setup * 2 = $1000
@@ -226,6 +228,7 @@ Cost will be $10 per meter, so 10*100 = $1000 dollars for cables.
 ![.](images/cable.jpg)
 
 **Wi-Fi Tablets**:
+
 The minimum specification requirement for wi-fi tablets are:
 Any IPad or android tablet with WI-FI capabilities.
 Cost will be $500 per tablet, so we need 3 tablets. $500*3 = $1500
