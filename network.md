@@ -79,8 +79,8 @@ Placement of the **access points** very carefully to cover the restaurant evenly
 ## Address Allocations
 | Name | ID |
 | :--- | :-|
-|Shoeb :| 12254683  |
-|Winston :| 12255229 | 
+| Keiuom :| 12280508  |
+| Rifat :| 12255229 | 
     
 We will allocate the IPv4 address for the restaurant for the main dining, service area, office, and the security cameras based on the last two digits of student ID.    
 **Subnet 1**  
