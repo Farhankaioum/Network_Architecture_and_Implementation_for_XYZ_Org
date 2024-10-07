@@ -222,6 +222,7 @@ The cost will be approximately 500 dollars for the setup * 2 = $1000
 
 
 **Ethernet Cables**:
+
 We will need atleast 100 meters cable for the whole project.
 Cost will be $10 per meter, so 10*100 = $1000 dollars for cables.
 
