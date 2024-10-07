@@ -157,6 +157,7 @@ The cost of this switch will be: $2500/switch*5 = $12500
 
 
 **Wireless Access Points**:
+
 The minimum specifications that we eed for the AP’s will be:
 Specifications:
 Wireless Standards: IEEE 802.11ac Wave 2
@@ -171,6 +172,7 @@ The cost of 1 Access point is $2000/AP * 5 = $12500
 
 
 **Servers**:
+
 The minimum specifications we need for a server are:
 Specifications:
 CPU: Quad-core or higher
@@ -185,6 +187,7 @@ The price of this server is $8000/server * 2 = $16000
 
 
 **Security Cameras**:
+
 Specifications:
 Resolution: 1080p or higher
 PoE support for simplified installation
