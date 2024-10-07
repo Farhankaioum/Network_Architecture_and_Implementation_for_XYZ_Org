@@ -109,6 +109,7 @@ We will allocate the IPv4 address for the restaurant for the main dining, servic
 Recommended Hardware:
 Below is the recommended hardware with minimum specifications required by the company to function smoothly without and hiccups and issues (Excluding All kitchen Appliances for cooking):
 We will need:
+
 1.	Routers
 2.	Switches
 3.	Wireless Access Points
