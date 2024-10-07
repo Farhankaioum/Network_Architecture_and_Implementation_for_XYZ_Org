@@ -132,6 +132,7 @@ than other competitors will the restaurant prioritize our company for the projec
 Below is with images what we need for the project:
 
 **Router**:
+
 The minimum specifications we need in a router is
 CPU: Quad-core processor
 RAM: 4 GB minimum
