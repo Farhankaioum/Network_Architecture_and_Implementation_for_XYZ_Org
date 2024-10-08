@@ -39,9 +39,10 @@ This section reflects on the success and challenges in the project and with team
 |Deadline pressure | As the deadline approaches, assignments from other subjects bring additional pressure|
 
 ## Recommended Techniques for Group Work in Future
-| Recommended Techniques       | Explanation                                                                            | Problem Solution                                                            |
+| Recommended Techniques       | Explanation                                                                            | 
+ Problem Solution                                                            |
 |-------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|Set clear deadlines | Set specific deadlines for each task to avoid last-minute rush and improve the plan| Solved time management issues|
+| Set clear deadlines | Set specific deadlines for each task to avoid last-minute rush and improve the plan| Solved time management issues |
 |Use project management tools | Use Gantt charts to clarify current progress, Zoom meetings to enhance communication | Enhance communication to make progress clearer, and document task assignments more intuitive|
 |Regular check-in | Schedule regular team meetings to discuss progress, resolve issues, and reassign tasks as necessary| Relieve communication difficulties and ensure everyone is consistent|
 |Shared documents and collaboration platforms | Maintain shared documents that specify the responsibilities and tasks of each member| Reduce chaos and improve efficiency|
