@@ -16,7 +16,8 @@ For urgent matters,Emergency Zoom meetings or phone calls can be arranged within
 ## Schedule
 The plan of tasks for each group member for the remainder of the project is:
 
-- Week 5: Establish GitHub repository and assign roles.Discuss and finalize project requirements.Create initial project structure and set up basic functionalities.  
+- Week 5: Establish GitHub repository and assign roles.Discuss and finalize project requirements.Create initial project structure and set up basic functionalities.
+
 - Week 6:Discuss the design of the network  
 - Week 7:Complete the design of the network and prepare to fill in the corresponding content on github   
 - Week 8:Prepare the final project part and discuss the division of labor  
