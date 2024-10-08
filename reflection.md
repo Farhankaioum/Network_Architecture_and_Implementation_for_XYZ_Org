@@ -34,8 +34,8 @@ This section reflects on the success and challenges in the project and with team
 
 | Negative Aspects          | Description                                                                                                     |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------|
-|Time management issue | Poor time management resulted in assignments being delayed until the end of submission|
-|Challenges in communication | During the drafting phase, unclear task allocation and lack of documented responsibilities resulted in confusion and wasted time in reconciling|
+| Time management issue | Poor time management resulted in assignments being delayed until the end of submission|
+| Challenges in communication | During the drafting phase, unclear task allocation and lack of documented responsibilities resulted in confusion and wasted time in reconciling|
 |Deadline pressure | As the deadline approaches, assignments from other subjects bring additional pressure|
 
 ## Recommended Techniques for Group Work in Future
