@@ -4,6 +4,7 @@ This section presents the initial plan for the project.
 [Communication](#communication-plan) | [Schedule](#schedule) | [Network Design](./network.md) | [Cloud Services](./cloud.md) | [Security](./security.md) | [Reflection](./reflection.md) | [Return to index](./README.md)
 
 ## Communication Plan
+
 **frequency:**  
 Face-to-face discussions every week, every Wednesday (we have the same course on Wednesdays that can be discussed in person on campus)  
 
