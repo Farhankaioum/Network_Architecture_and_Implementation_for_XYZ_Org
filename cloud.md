@@ -30,7 +30,6 @@ The region we chose was Melbourne Southeast-2
 ![c1](./images/c4.png)
 
 **Google Cloud Standard Storage**:
-
 The storage class was standard HDD storage and the region we chose is Melbourne:
 
 ![c1](./images/c5.png)
