@@ -6,7 +6,6 @@ This section gives pricing for a cloud setup for the company and discusses backu
 
 
 ## Pricing for Cloud Services
-
 Okay, So in this section we will be discussing About the Servers for Web Computing and Backup Servers.
 For this section we have estimated the pricing for Web servers and Cloud Backup servers from 2 providers.
 These 2 are specifically **Google Cloud** and **AWS**.
