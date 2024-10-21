@@ -67,7 +67,6 @@ Also for storage we used the EBS 3000 GB storage:
 ![c1](./images/d0.png)
 
 **Amazon Web Server (LightSail):**
-
 We selected only lightsail virtual server:
 
 ![c1](./images/d4.png)
