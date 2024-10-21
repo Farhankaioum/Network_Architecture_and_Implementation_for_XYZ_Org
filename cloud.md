@@ -14,7 +14,6 @@ These 2 are specifically **Google Cloud** and **AWS**.
 So lets Start With **Google Cloud**:
 
 **Google Cloud Web Server**:
-
 In the Instances selection we selected only one because we need only 1 web server.The operating system we slected was linux type:
 
 ![c1](./images/c1.png)
