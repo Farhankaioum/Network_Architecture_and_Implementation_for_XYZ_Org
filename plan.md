@@ -12,7 +12,7 @@ Face-to-face discussions every week, every Wednesday (we have the same course on
 Collaboratively update content through github. Meet every Wednesday for in-depth discussions, problem solving, and project status updates.  
 
 **Emergency communication:**
-For urgent matters,Emergency Zoom meetings or phone calls can be arranged within 24 hours if needed  
+For urgent matters, Emergency Zoom meetings or phone calls can be arranged within 24 hours if needed  
 
 ## Schedule
 The plan of tasks for each group member for the remainder of the project is:
