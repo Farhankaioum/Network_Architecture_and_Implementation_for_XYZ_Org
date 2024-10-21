@@ -65,15 +65,10 @@ Restaurant WiFi Design:
 ## Lets Design the Wi-Fi:
 
 Lets create the name for the guest wifi named **Guest_Wi-Fi**
-
 Lets name restaurant wifi as **Restaurant_Staff**
-
 Both wifis will be of the encryption **WPA3**
-
 Both the Guest and Staff Wi-fi's will be **separate**. 
-
 Prioritize **Cash registers** and **Ordering Consoles** and **Staff Tablets** on the network.
-
 Placement of the **access points** very carefully to cover the restaurant evenly.
 
 ## Address Allocations
