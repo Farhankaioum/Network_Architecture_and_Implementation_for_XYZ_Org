@@ -59,8 +59,6 @@ Based on the above information and the numbering of vulnerability, asset, and tr
 | Network                | Firewalls                     | Information extortion      | The firewall has been attacked by hackers and subjected to ransom and extortion          |
 
 
-
-
 ## Security Controls
 
 Based on the previous risk assessment, the data asset with the highest risk is "Financial Information." It faces the following risks:    
