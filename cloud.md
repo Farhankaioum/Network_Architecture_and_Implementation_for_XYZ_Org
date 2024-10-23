@@ -51,6 +51,7 @@ So we chose local zone as Chicago because australia is very expensive regarding 
 Below is both prices;
 
 ![c1](./images/d1.png)
+
 ![c1](./images/X1.png)
 Hence We opted to go with Chicago.
 
