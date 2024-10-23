@@ -10,6 +10,7 @@ This section gives a cyber security risk assessment for the company and recommen
 Based on the template of Week9, I will identify the asset, security threats, and the vulnerability. There are a total of 3 tables to display the cyber security risk assessment of network.  
 **asset**   
 I Identify the following asset. There are whole 4 asset type: data, hardware, software, network. In addition,there are 4 different data assets considered: customer information, sales data, financial information, employee records.
+
 | Asset Type | Asset                         |
 |------------|-------------------------------|
 |Data | Customer Information|
