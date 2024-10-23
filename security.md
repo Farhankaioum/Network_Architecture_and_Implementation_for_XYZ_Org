@@ -85,6 +85,7 @@ To reduce these risks, the following security controls are recommended:
 **2.Firewall:**  
 
 ***How to reduces risk***  
+
 The firewall has been deployed across the entire network boundary, but it could be strengthened, specifically in office areas and security room network segments (as there are financial server, sale server and so on here). Strengthen firewall to keep sure that only authorized employee can access the financial information and financial serve.
 
 ***Details***
