@@ -53,6 +53,7 @@ Below is both prices;
 ![c1](./images/d1.png)
 
 ![c1](./images/X1.png)
+
 Hence We opted to go with Chicago.
 
 Okay so in instance we selected 1 instance and constant usage because we will need to use it concurrently:
