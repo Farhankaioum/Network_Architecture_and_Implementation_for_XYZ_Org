@@ -76,6 +76,7 @@ To reduce these risks, the following security controls are recommended:
 2. Require manager and above to register MFA in the system to ensure that their accounts have an additional authentication to enhance access security.  
 
 ***Details***     
+
 1. MFA settings should only be implemented on servers in the office area to keep sure that access to financial information is just through high-level authentication.    
 2. Provide training and support to all employees to make sure that they understand the importance of MFA. Choose an MFA solution, such as SMS verification codes.    
 3. Network design requires the use of network isolation to separate servers in the office area from other network areas, ensuring that only authenticated individuals can access financial information. Implement MFA for management personnel and above, restricting their access to network segments containing financial information.  
