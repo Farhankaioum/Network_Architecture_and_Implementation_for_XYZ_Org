@@ -20,7 +20,7 @@ The plan of tasks for each group member for the remainder of the project is:
 - Week 5: Establish GitHub repository and assign roles.Discuss and finalize project requirements.Create initial project structure and set up basic functionalities.
 
 - Week 6:Discuss the design of the network  
-- Week 7:Complete the design of the network and prepare to fill in the corresponding content on github   
+- Week 7:Complete the design of the network and prepare to fill in the corresponding content on   github   
 - Week 8:Prepare the final project part and discuss the division of labor  
 - Week 9:Everyone completes the first draft of their own part and discusses it  
 - Week 10:Complete the recording and editing of the presentation video  
