@@ -30,6 +30,7 @@ There are 11 of the 12 information security threats included:   People errors,So
 
 
 **Vulnerability**   
+
 Based on the above information and the numbering of vulnerability, asset, and treat, this is overview of the vulnerability .
 | AssetType               | Asset                        | Threat                    | Vulnerability                                              |
 |-------------------------|------------------------------|---------------------------|------------------------------------------------------------|
