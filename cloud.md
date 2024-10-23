@@ -74,6 +74,7 @@ We selected only lightsail virtual server:
 We selected linux as operating system:
 
 ![c1](./images/d5.png)
+
 ![c1](./images/d6.png)
 
 Below is the final pricing estimate/quotation from amazon web services:
