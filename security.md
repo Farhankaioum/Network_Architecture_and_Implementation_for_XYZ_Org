@@ -97,6 +97,7 @@ The firewall has been deployed across the entire network boundary, but it could 
 **Disadvantages for Users:**  
 
 ***MFA:***  
+
 1. Increase complexity: It results in that when employees view data and informations through MFA, they will find that the MFA process is more complex and time-consuming.  
 2. Learning difficulty: Introducing and using MFA will take users some time to learn and adapt to new rules, resulting in potential learning costs    
 **Firewalls:**  
