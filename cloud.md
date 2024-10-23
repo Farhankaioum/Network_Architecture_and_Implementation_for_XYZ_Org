@@ -104,6 +104,7 @@ Below is a feature Comparison Table as well:
 Below are the current conversion rates for the prices according to current rate:
 
 ![rate1](./images/rate1.png)
+
 ![rate2](./images/rate2.png)
 
 **Conclusion:**
