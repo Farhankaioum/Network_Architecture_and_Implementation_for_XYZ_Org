@@ -25,6 +25,7 @@ I Identify the following asset. There are whole 4 asset type: data, hardware, so
 |Network| Firewalls|
 
 **Threats**   
+
 There are 11 of the 12 information security threats included:   People errors,Software attacks,Information extortion,Espionage and trespass,Theft,Technological obsolescence,Forces of nature,Technical hardware failures or errors,Technical software failures or errors,Changing quality of services,Sabotage and vandalism.  
 
 
