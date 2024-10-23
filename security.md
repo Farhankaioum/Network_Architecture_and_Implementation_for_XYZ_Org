@@ -9,6 +9,7 @@ This section gives a cyber security risk assessment for the company and recommen
 
 
 Based on the template of Week9, I will identify the asset, security threats, and the vulnerability. There are a total of 3 tables to display the cyber security risk assessment of network.  
+
 **asset**   
 I Identify the following asset. There are whole 4 asset type: data, hardware, software, network. In addition,there are 4 different data assets considered: customer information, sales data, financial information, employee records.
 
@@ -95,7 +96,6 @@ The firewall has been deployed across the entire network boundary, but it could 
 3. Monitor firewall logs regularly. In addition, detect and handle abnormal access and behaviors promptly  
 
 **Disadvantages for Users:**  
-
 ***MFA:***  
 
 1. Increase complexity: It results in that when employees view data and informations through MFA, they will find that the MFA process is more complex and time-consuming.  
