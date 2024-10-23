@@ -72,6 +72,7 @@ To reduce these risks, the following security controls are recommended:
 **1.Multi-Factor Authentication (MFA):**  
 
 ***How to reduce risk***  
+
 1. Implement high level MFA requirements in the office area to access the financial information. Only allow authenticated employees, such as managers or above to access the financial information and financial server. 
 2. Require manager and above to register MFA in the system to ensure that their accounts have an additional authentication to enhance access security.  
 
