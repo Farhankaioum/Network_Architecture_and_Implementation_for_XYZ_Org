@@ -4,6 +4,7 @@ This section gives a cyber security risk assessment for the company and recommen
 [Risk Assesment](#risk-assessment) | [Security Controls](#security-controls) | [Plan](./plan.md) | [Network Design](./network.md) | [Cloud Services](./cloud.md) | [Reflection](./reflection.md) | [Return to index](./README.md)
 
 ## Risk Assessment  
+
 [View risk assessment spreadsheet](./images/risk_assessment_WinstonShoeb.xlsx)    
 
 
